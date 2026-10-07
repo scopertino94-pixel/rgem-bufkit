@@ -1,0 +1,14 @@
+# RGEM -> BUFKIT pipeline - Python dependencies
+# Tested with Python 3.11 (Anaconda). Versions below are known-good.
+
+numpy==1.26.4
+pandas==2.2.3
+xarray==2024.7.0
+cfgrib==0.9.11.0        # GRIB2 reader for xarray (needs eccodes, below)
+MetPy==1.6.1            # thermodynamics + convective indices
+huggingface_hub==0.36.2 # publishes finished .buf files to the HF dataset
+
+# eccodes (ECMWF) - the C library that cfgrib reads GRIB2 with. Install BOTH
+# the library and the Python bindings via conda:
+#     conda install -c conda-forge eccodes python-eccodes
+eccodes

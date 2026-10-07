@@ -1,0 +1,9 @@
+# Normalize text line endings in the repo; check out native per-OS.
+* text=auto
+
+# BUFKIT needs CRLF; keep any .buf and GRIB files byte-for-byte.
+*.buf binary
+*.grib2 binary
+
+# Windows batch files must stay CRLF.
+*.bat text eol=crlf

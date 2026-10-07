@@ -1,0 +1,998 @@
+{
+"2is": {
+"stid": "2IS",
+"lat": 26.76,
+"lon": -80.94,
+"stnm": 267
+},
+"3ck": {
+"stid": "3CK",
+"lat": 42.21,
+"lon": -88.32,
+"stnm": 514
+},
+"agr": {
+"stid": "AGR",
+"lat": 27.65,
+"lon": -81.34,
+"stnm": 727960
+},
+"aqq": {
+"stid": "AQQ",
+"lat": 29.72,
+"lon": -84.98,
+"stnm": 722200
+},
+"atl4": {
+"stid": "ATL4",
+"lat": 38.6,
+"lon": -73.75,
+"stnm": 194
+},
+"atlh": {
+"stid": "ATLH",
+"lat": 40.44,
+"lon": -73.99,
+"stnm": 190
+},
+"b#q": {
+"stid": "B#Q",
+"lat": 40.3,
+"lon": -73.18,
+"stnm": 44025
+},
+"b#v": {
+"stid": "B#V",
+"lat": 40.7,
+"lon": -72.11,
+"stnm": 44017
+},
+"b#w": {
+"stid": "B#W",
+"lat": 38.5,
+"lon": -74.71,
+"stnm": 44009
+},
+"b#x": {
+"stid": "B#X",
+"lat": 40.37,
+"lon": -73.7,
+"stnm": 44065
+},
+"bid": {
+"stid": "BID",
+"lat": 41.17,
+"lon": -71.6,
+"stnm": 725058
+},
+"c09": {
+"stid": "C09",
+"lat": 35.99,
+"lon": -105.29,
+"stnm": 609
+},
+"can": {
+"stid": "CAN",
+"lat": 42.04,
+"lon": -73.19,
+"stnm": 854
+},
+"coat": {
+"stid": "COAT",
+"lat": 39.99,
+"lon": -75.81,
+"stnm": 849
+},
+"cty": {
+"stid": "CTY",
+"lat": 29.62,
+"lon": -83.09,
+"stnm": 722120
+},
+"dov": {
+"stid": "DOV",
+"lat": 38.83,
+"lon": -75.42,
+"stnm": 805
+},
+"evr": {
+"stid": "EVR",
+"lat": 25.87,
+"lon": -81.38,
+"stnm": 705
+},
+"grun": {
+"stid": "GRUN",
+"lat": 37.26,
+"lon": -82.1,
+"stnm": 200
+},
+"hgr": {
+"stid": "HGR",
+"lat": 39.69,
+"lon": -77.73,
+"stnm": 724066
+},
+"ijd": {
+"stid": "IJD",
+"lat": 41.74,
+"lon": -72.18,
+"stnm": 725084
+},
+"kabe": {
+"stid": "KABE",
+"lat": 40.65,
+"lon": -75.42,
+"stnm": 725170
+},
+"kack": {
+"stid": "KACK",
+"lat": 41.24,
+"lon": -70.07,
+"stnm": 725063
+},
+"kacy": {
+"stid": "KACY",
+"lat": 39.46,
+"lon": -74.57,
+"stnm": 724070
+},
+"kafj": {
+"stid": "KAFJ",
+"lat": 40.13,
+"lon": -80.3,
+"stnm": 741
+},
+"kagc": {
+"stid": "KAGC",
+"lat": 40.33,
+"lon": -79.95,
+"stnm": 725205
+},
+"kalb": {
+"stid": "KALB",
+"lat": 42.75,
+"lon": -73.79,
+"stnm": 725180
+},
+"kaoo": {
+"stid": "KAOO",
+"lat": 40.31,
+"lon": -78.32,
+"stnm": 725126
+},
+"kaug": {
+"stid": "KAUG",
+"lat": 44.32,
+"lon": -69.82,
+"stnm": 726185
+},
+"kavp": {
+"stid": "KAVP",
+"lat": 41.34,
+"lon": -75.73,
+"stnm": 725130
+},
+"kbaf": {
+"stid": "KBAF",
+"lat": 42.14,
+"lon": -72.71,
+"stnm": 744915
+},
+"kbdl": {
+"stid": "KBDL",
+"lat": 41.93,
+"lon": -72.69,
+"stnm": 725080
+},
+"kbdr": {
+"stid": "KBDR",
+"lat": 41.18,
+"lon": -73.12,
+"stnm": 725040
+},
+"kbed": {
+"stid": "KBED",
+"lat": 42.47,
+"lon": -71.27,
+"stnm": 744900
+},
+"kbfm": {
+"stid": "KBFM",
+"lat": 30.63,
+"lon": -88.07,
+"stnm": 722235
+},
+"kbgr": {
+"stid": "KBGR",
+"lat": 44.81,
+"lon": -68.84,
+"stnm": 726088
+},
+"kbmg": {
+"stid": "KBMG",
+"lat": 39.14,
+"lon": -86.62,
+"stnm": 724375
+},
+"kbmi": {
+"stid": "KBMI",
+"lat": 40.49,
+"lon": -88.92,
+"stnm": 724397
+},
+"kbos": {
+"stid": "KBOS",
+"lat": 42.38,
+"lon": -71.02,
+"stnm": 725090
+},
+"kbvi": {
+"stid": "KBVI",
+"lat": 40.76,
+"lon": -80.4,
+"stnm": 725204
+},
+"kbvy": {
+"stid": "KBVY",
+"lat": 42.57,
+"lon": -70.93,
+"stnm": 725088
+},
+"kbwi": {
+"stid": "KBWI",
+"lat": 39.18,
+"lon": -76.67,
+"stnm": 724060
+},
+"kc75": {
+"stid": "KC75",
+"lat": 41.01,
+"lon": -89.39,
+"stnm": 868
+},
+"kcef": {
+"stid": "KCEF",
+"lat": 42.21,
+"lon": -72.53,
+"stnm": 744910
+},
+"kcgx": {
+"stid": "KCGX",
+"lat": 41.89,
+"lon": -87.64,
+"stnm": 725346
+},
+"kchh": {
+"stid": "KCHH",
+"lat": 41.67,
+"lon": -69.96,
+"stnm": 744940
+},
+"kcho": {
+"stid": "KCHO",
+"lat": 38.13,
+"lon": -78.45,
+"stnm": 724016
+},
+"kcmh": {
+"stid": "KCMH",
+"lat": 40.0,
+"lon": -82.88,
+"stnm": 724280
+},
+"kcmi": {
+"stid": "KCMI",
+"lat": 40.04,
+"lon": -88.28,
+"stnm": 725315
+},
+"kcon": {
+"stid": "KCON",
+"lat": 43.21,
+"lon": -71.5,
+"stnm": 726050
+},
+"kcvg": {
+"stid": "KCVG",
+"lat": 39.05,
+"lon": -84.65,
+"stnm": 724210
+},
+"kday": {
+"stid": "KDAY",
+"lat": 39.91,
+"lon": -84.2,
+"stnm": 724290
+},
+"kdca": {
+"stid": "KDCA",
+"lat": 38.83,
+"lon": -77.03,
+"stnm": 724050
+},
+"kdec": {
+"stid": "KDEC",
+"lat": 39.83,
+"lon": -88.86,
+"stnm": 725316
+},
+"kdkb": {
+"stid": "KDKB",
+"lat": 41.92,
+"lon": -88.71,
+"stnm": 986
+},
+"kdnv": {
+"stid": "KDNV",
+"lat": 40.11,
+"lon": -87.59,
+"stnm": 724398
+},
+"kdpa": {
+"stid": "KDPA",
+"lat": 41.93,
+"lon": -88.25,
+"stnm": 725305
+},
+"kecg": {
+"stid": "KECG",
+"lat": 36.26,
+"lon": -76.19,
+"stnm": 746943
+},
+"kenw": {
+"stid": "KENW",
+"lat": 42.59,
+"lon": -87.95,
+"stnm": 213
+},
+"keri": {
+"stid": "KERI",
+"lat": 42.06,
+"lon": -80.15,
+"stnm": 725260
+},
+"kewb": {
+"stid": "KEWB",
+"lat": 41.67,
+"lon": -70.97,
+"stnm": 725065
+},
+"kewr": {
+"stid": "KEWR",
+"lat": 40.7,
+"lon": -74.16,
+"stnm": 725020
+},
+"kezf": {
+"stid": "KEZF",
+"lat": 38.27,
+"lon": -77.46,
+"stnm": 724033
+},
+"kfdy": {
+"stid": "KFDY",
+"lat": 41.01,
+"lon": -83.67,
+"stnm": 725366
+},
+"kfmh": {
+"stid": "KFMH",
+"lat": 41.65,
+"lon": -70.51,
+"stnm": 721
+},
+"kfmy": {
+"stid": "KFMY",
+"lat": 26.57,
+"lon": -81.88,
+"stnm": 722106
+},
+"kgbg": {
+"stid": "KGBG",
+"lat": 40.94,
+"lon": -90.42,
+"stnm": 388
+},
+"kgfl": {
+"stid": "KGFL",
+"lat": 43.32,
+"lon": -73.63,
+"stnm": 725185
+},
+"kgnv": {
+"stid": "KGNV",
+"lat": 29.69,
+"lon": -82.27,
+"stnm": 722146
+},
+"kgon": {
+"stid": "KGON",
+"lat": 41.33,
+"lon": -72.05,
+"stnm": 725046
+},
+"kgyy": {
+"stid": "KGYY",
+"lat": 41.61,
+"lon": -87.42,
+"stnm": 725337
+},
+"khat": {
+"stid": "KHAT",
+"lat": 35.24,
+"lon": -75.56,
+"stnm": 723040
+},
+"khfd": {
+"stid": "KHFD",
+"lat": 41.73,
+"lon": -72.66,
+"stnm": 725087
+},
+"khpn": {
+"stid": "KHPN",
+"lat": 41.06,
+"lon": -73.68,
+"stnm": 725037
+},
+"khuf": {
+"stid": "KHUF",
+"lat": 39.44,
+"lon": -87.32,
+"stnm": 724373
+},
+"khvn": {
+"stid": "KHVN",
+"lat": 41.28,
+"lon": -72.88,
+"stnm": 725045
+},
+"khya": {
+"stid": "KHYA",
+"lat": 41.68,
+"lon": -70.27,
+"stnm": 725067
+},
+"kiad": {
+"stid": "KIAD",
+"lat": 38.95,
+"lon": -77.45,
+"stnm": 724030
+},
+"kijx": {
+"stid": "KIJX",
+"lat": 39.78,
+"lon": -90.23,
+"stnm": 389
+},
+"kilg": {
+"stid": "KILG",
+"lat": 39.69,
+"lon": -75.59,
+"stnm": 724089
+},
+"kind": {
+"stid": "KIND",
+"lat": 39.74,
+"lon": -86.27,
+"stnm": 724380
+},
+"kipt": {
+"stid": "KIPT",
+"lat": 41.25,
+"lon": -76.94,
+"stnm": 725140
+},
+"kisp": {
+"stid": "KISP",
+"lat": 40.79,
+"lon": -73.09,
+"stnm": 725035
+},
+"kith": {
+"stid": "KITH",
+"lat": 42.47,
+"lon": -76.44,
+"stnm": 725155
+},
+"kjax": {
+"stid": "KJAX",
+"lat": 30.5,
+"lon": -81.68,
+"stnm": 722060
+},
+"kjfk": {
+"stid": "KJFK",
+"lat": 40.64,
+"lon": -73.79,
+"stnm": 744860
+},
+"kjvl": {
+"stid": "KJVL",
+"lat": 42.62,
+"lon": -89.05,
+"stnm": 726415
+},
+"klaf": {
+"stid": "KLAF",
+"lat": 40.42,
+"lon": -86.92,
+"stnm": 724386
+},
+"klbe": {
+"stid": "KLBE",
+"lat": 40.29,
+"lon": -79.4,
+"stnm": 725207
+},
+"klck": {
+"stid": "KLCK",
+"lat": 39.82,
+"lon": -82.92,
+"stnm": 724285
+},
+"klga": {
+"stid": "KLGA",
+"lat": 40.78,
+"lon": -73.9,
+"stnm": 725030
+},
+"klns": {
+"stid": "KLNS",
+"lat": 40.11,
+"lon": -76.28,
+"stnm": 725116
+},
+"klot": {
+"stid": "KLOT",
+"lat": 41.62,
+"lon": -88.09,
+"stnm": 525
+},
+"kluk": {
+"stid": "KLUK",
+"lat": 39.08,
+"lon": -84.43,
+"stnm": 724297
+},
+"klwm": {
+"stid": "KLWM",
+"lat": 42.72,
+"lon": -71.12,
+"stnm": 744904
+},
+"klwv": {
+"stid": "KLWV",
+"lat": 38.75,
+"lon": -87.63,
+"stnm": 386
+},
+"kmco": {
+"stid": "KMCO",
+"lat": 28.43,
+"lon": -81.33,
+"stnm": 722050
+},
+"kmdh": {
+"stid": "KMDH",
+"lat": 37.79,
+"lon": -89.24,
+"stnm": 724336
+},
+"kmdt": {
+"stid": "KMDT",
+"lat": 40.2,
+"lon": -76.77,
+"stnm": 725115
+},
+"kmdw": {
+"stid": "KMDW",
+"lat": 41.79,
+"lon": -87.76,
+"stnm": 725340
+},
+"kmht": {
+"stid": "KMHT",
+"lat": 42.93,
+"lon": -71.42,
+"stnm": 743945
+},
+"kmia": {
+"stid": "KMIA",
+"lat": 25.82,
+"lon": -80.27,
+"stnm": 722020
+},
+"kmiv": {
+"stid": "KMIV",
+"lat": 39.37,
+"lon": -75.09,
+"stnm": 724075
+},
+"kmke": {
+"stid": "KMKE",
+"lat": 42.95,
+"lon": -87.91,
+"stnm": 726400
+},
+"kmlb": {
+"stid": "KMLB",
+"lat": 28.1,
+"lon": -80.66,
+"stnm": 722040
+},
+"kmmu": {
+"stid": "KMMU",
+"lat": 40.79,
+"lon": -74.43,
+"stnm": 724097
+},
+"kmob": {
+"stid": "KMOB",
+"lat": 30.69,
+"lon": -88.25,
+"stnm": 722230
+},
+"kmpo": {
+"stid": "KMPO",
+"lat": 41.13,
+"lon": -75.39,
+"stnm": 848
+},
+"kmsv": {
+"stid": "KMSV",
+"lat": 41.71,
+"lon": -74.79,
+"stnm": 725145
+},
+"kmtn": {
+"stid": "KMTN",
+"lat": 39.33,
+"lon": -76.41,
+"stnm": 724067
+},
+"koly": {
+"stid": "KOLY",
+"lat": 38.73,
+"lon": -88.17,
+"stnm": 869
+},
+"koqu": {
+"stid": "KOQU",
+"lat": 41.61,
+"lon": -71.41,
+"stnm": 725074
+},
+"kord": {
+"stid": "KORD",
+"lat": 41.99,
+"lon": -87.9,
+"stnm": 725300
+},
+"kore": {
+"stid": "KORE",
+"lat": 42.56,
+"lon": -72.27,
+"stnm": 725085
+},
+"korf": {
+"stid": "KORF",
+"lat": 36.9,
+"lon": -76.19,
+"stnm": 723080
+},
+"korh": {
+"stid": "KORH",
+"lat": 42.28,
+"lon": -71.87,
+"stnm": 725095
+},
+"kpah": {
+"stid": "KPAH",
+"lat": 37.06,
+"lon": -88.77,
+"stnm": 724350
+},
+"kpbi": {
+"stid": "KPBI",
+"lat": 26.69,
+"lon": -80.13,
+"stnm": 722030
+},
+"kphf": {
+"stid": "KPHF",
+"lat": 37.12,
+"lon": -76.49,
+"stnm": 723086
+},
+"kphl": {
+"stid": "KPHL",
+"lat": 39.88,
+"lon": -75.25,
+"stnm": 724080
+},
+"kpia": {
+"stid": "KPIA",
+"lat": 40.67,
+"lon": -89.69,
+"stnm": 725320
+},
+"kpie": {
+"stid": "KPIE",
+"lat": 27.91,
+"lon": -82.67,
+"stnm": 722116
+},
+"kpit": {
+"stid": "KPIT",
+"lat": 40.49,
+"lon": -80.21,
+"stnm": 725200
+},
+"kpne": {
+"stid": "KPNE",
+"lat": 40.08,
+"lon": -74.99,
+"stnm": 724085
+},
+"kpns": {
+"stid": "KPNS",
+"lat": 30.46,
+"lon": -87.18,
+"stnm": 722223
+},
+"kpnt": {
+"stid": "KPNT",
+"lat": 40.91,
+"lon": -88.61,
+"stnm": 753
+},
+"kpou": {
+"stid": "KPOU",
+"lat": 41.62,
+"lon": -73.88,
+"stnm": 725036
+},
+"kpsm": {
+"stid": "KPSM",
+"lat": 43.09,
+"lon": -70.83,
+"stnm": 726055
+},
+"kpvd": {
+"stid": "KPVD",
+"lat": 41.74,
+"lon": -71.42,
+"stnm": 725070
+},
+"kpwm": {
+"stid": "KPWM",
+"lat": 43.66,
+"lon": -70.31,
+"stnm": 726060
+},
+"kpym": {
+"stid": "KPYM",
+"lat": 41.92,
+"lon": -70.75,
+"stnm": 725064
+},
+"krdg": {
+"stid": "KRDG",
+"lat": 40.37,
+"lon": -75.97,
+"stnm": 725103
+},
+"krfd": {
+"stid": "KRFD",
+"lat": 42.21,
+"lon": -89.1,
+"stnm": 725430
+},
+"kric": {
+"stid": "KRIC",
+"lat": 37.5,
+"lon": -77.33,
+"stnm": 724010
+},
+"krnk": {
+"stid": "KRNK",
+"lat": 37.21,
+"lon": -80.42,
+"stnm": 723180
+},
+"kroa": {
+"stid": "KROA",
+"lat": 37.31,
+"lon": -79.97,
+"stnm": 724110
+},
+"krpj": {
+"stid": "KRPJ",
+"lat": 41.89,
+"lon": -89.08,
+"stnm": 667
+},
+"ksby": {
+"stid": "KSBY",
+"lat": 38.32,
+"lon": -75.51,
+"stnm": 724045
+},
+"ksch": {
+"stid": "KSCH",
+"lat": 42.85,
+"lon": -73.94,
+"stnm": 744994
+},
+"ksfm": {
+"stid": "KSFM",
+"lat": 43.4,
+"lon": -70.72,
+"stnm": 726064
+},
+"kspi": {
+"stid": "KSPI",
+"lat": 39.84,
+"lon": -89.66,
+"stnm": 724390
+},
+"kstl": {
+"stid": "KSTL",
+"lat": 38.76,
+"lon": -90.35,
+"stnm": 724340
+},
+"kswf": {
+"stid": "KSWF",
+"lat": 41.49,
+"lon": -74.11,
+"stnm": 725038
+},
+"ksyr": {
+"stid": "KSYR",
+"lat": 43.12,
+"lon": -76.13,
+"stnm": 725190
+},
+"ktaz": {
+"stid": "KTAZ",
+"lat": 39.54,
+"lon": -89.33,
+"stnm": 980
+},
+"kteb": {
+"stid": "KTEB",
+"lat": 40.83,
+"lon": -74.06,
+"stnm": 725025
+},
+"ktpa": {
+"stid": "KTPA",
+"lat": 27.96,
+"lon": -82.53,
+"stnm": 722110
+},
+"kttn": {
+"stid": "KTTN",
+"lat": 40.28,
+"lon": -74.84,
+"stnm": 724095
+},
+"kugn": {
+"stid": "KUGN",
+"lat": 42.41,
+"lon": -87.87,
+"stnm": 725347
+},
+"kuin": {
+"stid": "KUIN",
+"lat": 39.95,
+"lon": -91.2,
+"stnm": 724396
+},
+"kunv": {
+"stid": "KUNV",
+"lat": 40.82,
+"lon": -77.84,
+"stnm": 725128
+},
+"kvrb": {
+"stid": "KVRB",
+"lat": 27.65,
+"lon": -80.42,
+"stnm": 722045
+},
+"kwwd": {
+"stid": "KWWD",
+"lat": 39.01,
+"lon": -74.92,
+"stnm": 745966
+},
+"liso": {
+"stid": "LISO",
+"lat": 41.1,
+"lon": -72.88,
+"stnm": 284
+},
+"lm3": {
+"stid": "LM3",
+"lat": 42.13,
+"lon": -87.65,
+"stnm": 45174
+},
+"mie": {
+"stid": "MIE",
+"lat": 40.25,
+"lon": -85.41,
+"stnm": 725336
+},
+"nhk": {
+"stid": "NHK",
+"lat": 38.29,
+"lon": -76.4,
+"stnm": 724040
+},
+"okx": {
+"stid": "OKX",
+"lat": 40.88,
+"lon": -72.86,
+"stnm": 725010
+},
+"rutg": {
+"stid": "RUTG",
+"lat": 40.5,
+"lon": -74.44,
+"stnm": 280
+},
+"spa": {
+"stid": "SPA",
+"lat": 41.05,
+"lon": -74.62,
+"stnm": 899
+},
+"tmsr": {
+"stid": "TMSR",
+"lat": 39.99,
+"lon": -74.15,
+"stnm": 675
+},
+"tow": {
+"stid": "TOW",
+"lat": 41.76,
+"lon": -76.44,
+"stnm": 874
+},
+"txkf": {
+"stid": "TXKF",
+"lat": 32.37,
+"lon": -64.67,
+"stnm": 780160
+},
+"w54": {
+"stid": "W54",
+"lat": 39.62,
+"lon": -77.01,
+"stnm": 99008
+},
+"woo": {
+"stid": "WOO",
+"lat": 38.88,
+"lon": -78.51,
+"stnm": 99006
+},
+"wtby": {
+"stid": "WTBY",
+"lat": 41.56,
+"lon": -73.04,
+"stnm": 754
+},
+"xmr": {
+"stid": "XMR",
+"lat": 28.47,
+"lon": -80.55,
+"stnm": 747940
+}
+}
